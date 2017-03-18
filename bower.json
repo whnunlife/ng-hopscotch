@@ -20,6 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "hopscotch": "git://github.com/whnunlife/hopscotch.git#^0.2.8"
+    "hopscotch": "git://github.com/whnunlife/hopscotch.git#0.2.8"
   }
 }
