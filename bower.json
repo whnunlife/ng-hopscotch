@@ -3,7 +3,7 @@
   "homepage": "https://github.com/qu1ze/ng-hopscotch",
   "description": "Hopscotch angular wrapper",
   "main": "src/ng-hopscotch.js",
-  "version" : "0.1.4",
+  "version" : "0.1.5",
   "keywords": [
     "Hopscotch",
     "Angular"
@@ -20,6 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "hopscotch": "git://github.com/whnunlife/hopscotch.git#~0.2"
+    "hopscotch": "git://github.com/whnunlife/hopscotch.git#0.2.x"
   }
 }
